@@ -1,2 +1,0 @@
-# Pit
-exercise project
